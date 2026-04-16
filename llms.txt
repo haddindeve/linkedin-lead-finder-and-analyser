@@ -1,0 +1,39 @@
+# LinkedIn Lead Finder and Analyser
+
+> Agent-driven LinkedIn research workspace that sources, analyses and briefs on prospects.
+
+Author: Muhammad Tanveer (Full-Stack AI Automation Engineer)
+Contact: mtanveertahir66@gmail.com | https://www.linkedin.com/in/muhammad-tanveer-advenno/
+Repository: https://github.com/haddindeve/linkedin-lead-finder-and-analyser
+Source availability: implementation held in a private repository; access on request.
+
+## Summary
+Researching a prospect on LinkedIn - profile, company, recent activity, fit - takes ten to fifteen minutes per lead and is done differently by each person doing it.
+
+A command-driven research workspace: defined commands for sourcing, research and briefing, so the same steps run in the same order every time. The output is a structured brief rather than a pile of raw profile text.
+
+## Stack
+Automation: Agent command workflows, Research: LinkedIn profile and company analysis, Output: Structured prospect briefs
+
+## Capabilities
+- Repeatable research commands
+- Prospect sourcing and shortlisting
+- Fit analysis against a target profile
+- Structured briefs instead of raw notes
+
+## Outcomes
+- Per-prospect research reduced to a single command
+- Consistent output regardless of who runs it
+
+## FAQ
+Q: What does it produce?
+A: A structured brief per prospect - profile summary, company context and fit assessment.
+
+Q: Is it a scraper?
+A: Sourcing is one step; the value is the analysis and briefing built on top.
+
+Q: Can the research steps be changed?
+A: Yes - the workflow is defined as commands that can be edited or extended.
+
+Q: Is the code available?
+A: Private; access on request.
